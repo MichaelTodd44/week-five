@@ -1,1 +1,5 @@
-
+Much like my coding skills, I lack any musical talent. However, it was rather intersting to hear the data and kinda' process it through my  brain in a different manner. Honestly, I was a little dumbfoinded with the idea of using sound as a means to comprehend data, and couldn't wrap my head around the process. 
+I do love the mapping area, especially in regards to your example of Arya's Journey. I am an avid George R.R Martin fan, and have read all the books multiple times, and tend to listen to them on a occasional basis. However, I didn't even realize how much Arya was shipped around in the same general area for a while. 
+https://uploads.knightlab.com/storymapjs/797d4e2f096da4f62abc449de8488824/aaa/index.html
+Despite the small bits of regurgitated knowledge of the Panama Canal, I see how the application of such could be marvelous in any case. 
+Planning out things in visuals is actually rather pleasing to me, as allows for the different senses of learning, as you can truly understand the topic more. I spent roughly around an thirty minutes building that Knightlabs poster board. 
