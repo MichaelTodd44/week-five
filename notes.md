@@ -8,3 +8,4 @@ Another main issue I seemed to have is creating new lines of text. Most of my ap
 I especially had an issue with fixing the text into the pre-detirmined poster areas, and it was a little rough. I decided to give up on trying to fix and make everything look pretty.
 I do not know if this is a user error or such, but the program is hard to copy and paste paragraphs and then be able to size them accordingly to the scheme I need. If I had a choice, I would be try and repurpose the layout of the poster. Other than that, it's a great system. 
 Foresight has drawn onto me that I screwed up the Poster entirely. I understand, I wasn't supposed to use so much information and rather small tid bits of knowledge to catch the eye and explain the general statements. 
+The Static Website was actually really cool, https://michaeltodd44.github.io/. Really handy, and rather interesting. I'm going to do more research on all the different commands and such.
